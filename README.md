@@ -1,4 +1,2 @@
-# Practical-Projects
-Projects that help me understand the basic concepts of coding better
-# List of Projects
-1. JS Calculator
+# JS Calculator
+a simple version of Calculator created using HTML, CSS and JS
