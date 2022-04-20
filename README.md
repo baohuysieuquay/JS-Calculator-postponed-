@@ -1,2 +1,2 @@
-# JS Calculator
-a simple version of Calculator created using HTML, CSS and JS. (Postponed)
+# JS Calculator (Postponed)
+a simple version of Calculator created using HTML, CSS and JS.
